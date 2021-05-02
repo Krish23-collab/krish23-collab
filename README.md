@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, JS, Life, Simulation, Space and Ideas.
 - 📫 How to reach me: https://www.linkedin.com/in/krishnachb/.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a electrical engineer and a software developer.
+- ⚡ Fun fact: I'm a software developer and a electrical engineer.
 -->
