@@ -1,6 +1,6 @@
-## I'm Krishna Bollineni!
-- 🔭 I work upon Javascript ,python,react, node.js and sql based projects. I'm grounded through Java. Working with Azure Cloud based Technology.
-- 🌱 I see myself as a full-stack developer and a budding cloud engineer
+## I'm Krishna Bollineni..
+- 🔭 I work upon Javascript,python,react, node.js and sql based projects. I'm grounded through Java. Working with Azure Cloud based Technology and flexible with other cloud         technologies as well.
+- 🌱 I see myself as a Full-stack developer and a budding cloud engineer
 - 💬 reach out to me for a collaboration
 - 📫 How to reach me: https://www.linkedin.com/in/krishnachb/.
 - ⚡ Fun fact: I'm an electrical engineer and a software developer.
