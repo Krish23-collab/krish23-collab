@@ -1,4 +1,4 @@
-## Hi, everyone I'm Krishna Bollineni..
+I'm Krishna Bollineni..
 - 🔭 I work upon Javascript,python,react, node.js and sql based projects. I'm grounded through Java and front-end development. Working with Azure Cloud-based Technology and flexible with other cloud technologies as well.
 - 🌱 I see myself as a Full-stack developer and a budding cloud engineer.
 - 💬 reach out to me for a collaboration
